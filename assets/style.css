@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+}
+
+
+header {
+    background-image: url(pattern.png);
+    background-color: #4EA0FF;
+    height: 110px;
+    background-size: 450px 210px;
+
+}
+
+header > img {
+
+    height: 55%;
+    margin: 40px 490px;
+}
