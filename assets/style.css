@@ -11,14 +11,15 @@ header {
 
 }
 
-header > img {
+header>img {
 
     height: 55%;
     margin: 40px 490px;
 }
 
 
-main ,footer{
+main,
+footer {
     margin: 0 490px;
 }
 
@@ -35,25 +36,42 @@ h1 {
 }
 
 #datatitolo {
- margin-bottom: 20px;
- font-size: smaller;
+    margin-bottom: 20px;
+    font-size: smaller;
 }
 
 #descrizionefoto {
     font-size: smaller;
 }
 
-/* Inizio tavola */
+/* -------Inizio tavola-------- */
 
-#1riga {
-
+thead {
     background-color: #4EA0FF;
+    color: white;
+    margin: auto;
 }
 
+.prima-colonna {
+    width: 300px;
+    text-align: left;
+}
 
+.seconda-colonna {
+    width: 200px;
+    text-align: left;
+}
 
-/* Fine tavola */
+.terza-colonna {
+    text-align: left;
+}
 
-footer > h4 {
-    color: grey;
+.riga-colorata {
+    background-color: #76d5fbf9;
+}
+
+/* --------Fine tavola---------- */
+
+footer>h4 {
+    color: gray;
 }
