@@ -18,7 +18,7 @@ header > img {
 }
 
 
-main {
+main ,footer{
     margin: 0 490px;
 }
 
@@ -41,4 +41,19 @@ h1 {
 
 #descrizionefoto {
     font-size: smaller;
+}
+
+/* Inizio tavola */
+
+#1riga {
+
+    background-color: #4EA0FF;
+}
+
+
+
+/* Fine tavola */
+
+footer > h4 {
+    color: grey;
 }
