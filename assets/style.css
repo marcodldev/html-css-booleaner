@@ -16,3 +16,29 @@ header > img {
     height: 55%;
     margin: 40px 490px;
 }
+
+
+main {
+    margin: 0 490px;
+}
+
+#booleaners {
+    color: #4EA0FF;
+}
+
+#titolo {
+    margin: 0px 0px;
+}
+
+h1 {
+    margin-bottom: 0;
+}
+
+#datatitolo {
+ margin-bottom: 20px;
+ font-size: smaller;
+}
+
+#descrizionefoto {
+    font-size: smaller;
+}
